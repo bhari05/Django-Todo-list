@@ -1,6 +1,7 @@
 # ToDo-list
 
 This project entails the development of a dynamic and user-friendly To-Do List application using Django, a high-level Python web framework renowned for its rapid development capabilities and clean, pragmatic design. The application aims to assist users in efficiently managing and organizing their tasks by providing a range of features that enhance usability and functionality.
+
 The primary objectives of this project are:
 •	Task Management
 •	Database Integration
